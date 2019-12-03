@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/longo-andrea/Assignment2-TOS.svg?branch=TakeAwayBillFeature)](https://travis-ci.org/longo-andrea/Assignment2-TOS)
+[![Build Status](https://travis-ci.org/longo-andrea/Assignment2-TOS.svg?branch=master)](https://travis-ci.org/longo-andrea/Assignment2-TOS)
