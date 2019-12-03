@@ -30,7 +30,7 @@ public class PaninotecaTest {
   @Test
   public void MenuItemGetPriceTest() {
     MenuItem cola = new MenuItem(itemType.BEVANDE, "Cola", 2);
-    assertEquals(2, cola.getName(), 0.0);
+    assertEquals(2, cola.getPrice(), 0.0);
   }  
  
 }
