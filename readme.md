@@ -1,1 +1,2 @@
 [![Build Status](https://travis-ci.org/longo-andrea/Assignment2-TOS.svg?branch=master)](https://travis-ci.org/longo-andrea/Assignment2-TOS)
+[![Coverage Status](https://coveralls.io/repos/github/longo-andrea/Assignment2-TOS/badge.svg?branch=master)](https://coveralls.io/github/longo-andrea/Assignment2-TOS?branch=master)
